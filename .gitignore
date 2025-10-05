@@ -192,4 +192,7 @@ pyrightconfig.json
 .history
 .ionide
 
+market.db
+alembic.ini
+alembic/
 # End of
